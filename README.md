@@ -2,7 +2,8 @@
 Göteborg, 13th - 15th August
 
 ## Registration
-A link to Google Form
+A link to Google [Form](https://docs.google.com/forms/d/1ohWOngcljmUCfSMG3mA1N263QP0wI2TCMcT3angaMEo/edit?usp=sharing)
+[jeff]: This is link to editable form
 
 ## Venue
 KeY symposium 2018 will take place at [Chalmersska huset](https://www.chalmersskahuset.se), also known as [The house of William Chalmers](https://www.chalmers.se/en/about-chalmers/house%20of%20william%20chalmers/Pages/default.aspx). 
